@@ -1,0 +1,9 @@
+Tooltip_PTBR = {
+	-- Item tooltip
+	Tooltip_HCArmor = "Pressione P para ver que Armadura você está usando.",
+	Tooltip_HCBluebarrelcorpse = "Vai virar lixo tóxico.",
+	Tooltip_HCFeedme = "Alimente para manter vivo.",
+	Tooltip_HCSleep = "Deixe no chão para usar.",
+	HCFarming_Tooltip_UseFruitAsSeed = "Pode usar fruta como semente.",
+	Tooltip_item_BonusLongbowReload = "Garanti +50% de velocidade na recarga do arco, quando usado."
+}
