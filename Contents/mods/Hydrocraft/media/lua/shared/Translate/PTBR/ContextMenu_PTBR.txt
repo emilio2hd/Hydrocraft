@@ -1,0 +1,7 @@
+ContextMenu_PTBR = {
+	ContextMenu_Sow_Trellis_Seed = "Semente de Videira no Suporte",
+	ContextMenu_Sniff = "Cheirar",
+	ContextMenu_Inject = "injetar",
+	ContextMenu_Build_Trellis = "Instalar Treliça",
+	ContextMenu_Water_Pump = "Bomba de Água",
+}
