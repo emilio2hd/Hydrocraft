@@ -1,0 +1,31 @@
+Sandbox_PTBR = {
+	Sandbox_Hydrocraft = "Hydrocraft"
+
+	Sandbox_Hydrocraft_Spawn_Guns = "Gerar Armas do Hidrocraft?"
+
+	Sandbox_Hydrocraft_Spawn_Book_Covers = "Gerar Capas de Livros?"
+	Sandbox_Hydrocraft_Spawn_Book_Covers_tooltip = "Dar capas de livro quando você remove a capa de um livro? (Item inútil)"
+
+	Sandbox_Hydrocraft_Spawn_Cigarette_Butts = "Bituca de Cigarro?"
+
+	Sandbox_Hydrocraft_Show_Damage_On_Hit = "Exibir dano ao acertar"
+
+	Sandbox_Hydrocraft_Low_Condition_Weapons_On_Zombies = "Armas com Baixa Condição em Zumbis"
+
+	Sandbox_Hydrocraft_Burn_Damage = "Dano de Queimadura de Metalurgia"
+	Sandbox_Hydrocraft_Burn_Damage_tooltip = "Muda o dano da queimadura quando recebida usando Forno, Fundição, Alto-forno e Forno Industrial."
+	Sandbox_Hydrocraft_Burn_Damage_option1 = "Completo (padrão)"
+	Sandbox_Hydrocraft_Burn_Damage_option2 = "Meio"
+	Sandbox_Hydrocraft_Burn_Damage_option3 = "Nenhum"
+
+	Sandbox_Hydrocraft_Animal_Starvation = "Morte de Animais por Fome",
+	Sandbox_Hydrocraft_Animal_Starvation_tooltip = "Os animais da fazenda podem morrer de fome?"
+	Sandbox_Hydrocraft_Animal_Starvation_option1 = "Sim (padrão)"
+	Sandbox_Hydrocraft_Animal_Starvation_option2 = "Não"
+
+	Sandbox_Hydrocraft_Zombie_Loot = "Nível de itens em Zumbis",
+	Sandbox_Hydrocraft_Zombie_Loot_tooltip = "Muda a quantidade de itens nos zumbis mortos. Não impacta nos itens básicos, apenas os 'extras' adicionados pelo Hydrocraft (o que inclui alguns itens básicos)."
+	Sandbox_Hydrocraft_Zombie_Loot_option1 = "Normal (padrão)"
+	Sandbox_Hydrocraft_Zombie_Loot_option2 = "Baixo"
+	Sandbox_Hydrocraft_Zombie_Loot_option3 = "Muito Baixo"
+}
